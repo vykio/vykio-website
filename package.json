@@ -13,6 +13,7 @@
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "styled-jsx": "^3.3.0"
+    "styled-jsx": "^3.3.0",
+    "twitch.tv-api": "^1.2.4"
   }
 }

@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vykio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vykio.fr
+  * I am vykio (https://keybase.io/vykio) on keybase.
+  * I have a public key ASAEr_20TGUI_4yE_KtKSBRwyz23dbYkAVf_Z5EZ0VTcUgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012004affdb44c6508ff8c84fcab4a481470cb3db775b6240157ff679119d154dc520a",
+      "host": "keybase.io",
+      "kid": "012004affdb44c6508ff8c84fcab4a481470cb3db775b6240157ff679119d154dc520a",
+      "uid": "ef9bebbe2eb52bcdc89f248c0bdddf19",
+      "username": "vykio"
+    },
+    "merkle_root": {
+      "ctime": 1595085984,
+      "hash": "9a008d550aad7849828be92ca5696ffbe0a805c9f362abd4a673cd4b62ff8bef5d6de236c2e34809beafb91362ac93bff1424d00c14a02f1a69279b5c0d1dc76",
+      "hash_meta": "637a32f87b38b915001d6f9f17cd1c3b990401e842b98ff7ecd771ca5dc4881f",
+      "seqno": 17006021
+    },
+    "service": {
+      "entropy": "B29nC4sU92fCZJNTbD/E7fSI",
+      "hostname": "vykio.fr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1595086106,
+  "expire_in": 504576000,
+  "prev": "c1b69f6b255b45a645666c654c936913809bc23259541d8384e8bf801fae07de",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBK/9tExlCP+MhPyrSkgUcMs9t3W2JAFX/2eRGdFU3FIKp3BheWxvYWTESpcCE8QgwbafayVbRaZFZmxlTJNpE4CbwjJZVB2DhOi/gB+uB97EIBz3Cwi9KayWP6fGzNXyooIi3aQHZZcn9AIOlnM4mskNAgHCo3NpZ8RAZHe0OC1sLK/5a3+WQDtKgucttHxYJw7cC3ci3881VL4CMmSxrH/U1Skg+wv+N3BU092ZeGGSiOJ1ui73gcUWBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF83qMLhvrMYgwUJEAZdhyCRWbhGhqorg2eO8BEBysFso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vykio
+
+==================================================================
