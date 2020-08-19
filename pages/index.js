@@ -1,12 +1,5 @@
 import Head from 'next/head'
 
-/*const { ApiClient } = require('twitch');
-const { StaticAuthProvider } = require('twitch-auth');
-const clientId = '***REMOVED***';
-const accessToken = '***REMOVED***';
-const authProvider = new StaticAuthProvider(clientId, accessToken);
-const apiClient = new ApiClient({ authProvider });*/
-
 const Twitch = require("twitch.tv-api");
 const twitch = new Twitch({
   id: process.env.TWITCH_ID,
