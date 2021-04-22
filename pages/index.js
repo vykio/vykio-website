@@ -74,7 +74,7 @@ export default function Home({ data, dd }) {
           <p className="description">
             {/*Get started by editing <code>pages/index.js</code>*/}
 {/*<code>BTC: 1JXAhLPtXbC7QoGLQTRNqnfbKwizez5Y3K</code>*/}
-            <a href="https://discordapp.com/users/144067017769484288">Vykio#5830</a>
+            <a href="https://discordapp.com/users/144067017769484288" target="_blank">Vykio#5830</a>
           </p>
 
 
