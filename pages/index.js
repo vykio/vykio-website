@@ -73,7 +73,8 @@ export default function Home({ data, dd }) {
 
           <p className="description">
             {/*Get started by editing <code>pages/index.js</code>*/}
-            <code>BTC: 1JXAhLPtXbC7QoGLQTRNqnfbKwizez5Y3K</code>
+{/*<code>BTC: 1JXAhLPtXbC7QoGLQTRNqnfbKwizez5Y3K</code>*/}
+            <a href="https://discordapp.com/users/144067017769484288">Vykio#5830</a>
           </p>
 
 
@@ -155,7 +156,7 @@ export default function Home({ data, dd }) {
             <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
           </a>*/}
           <div class="footerContainer">
-            <a href="https://instagram.com/vykio.stream" target="_blank"><img src="/imgs/instagram.svg" className="logo" /></a>
+            <a href="https://instagram.com/vykio.tv" target="_blank"><img src="/imgs/instagram.svg" className="logo" /></a>
             <a href="https://youtube.com/vykio" target="_blank"><img src="/imgs/youtube.svg" className="logo" /></a>
             <a href="https://twitch.tv/vykio" target="_blank"><img src="/imgs/twitch.svg" className="logo" /></a>
             <a href="https://github.com/vykio" target="_blank"><img src="/imgs/github.svg" className="logo" /></a>
