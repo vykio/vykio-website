@@ -4,7 +4,7 @@ const twitch = new Twitch({
   secret: process.env.TWITCH_SECRET
 })
 
-const userToStream = "vykio";
+const userToStream = "ponce";
 
 async function getStream() {
   let data = await twitch.getUser(userToStream);
