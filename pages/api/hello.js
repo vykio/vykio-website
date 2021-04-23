@@ -11,7 +11,7 @@ async function getStream() {
   return data;
 }
 
-export default (req, res) => {
+export default async (req, res) => {
 
   const stream = await getStream();
   var live = false;
